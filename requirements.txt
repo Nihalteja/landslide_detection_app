@@ -1,0 +1,7 @@
+streamlit
+h5py
+numpy
+matplotlib
+Pillow
+scikit-image
+tensorflow
